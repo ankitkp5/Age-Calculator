@@ -96,7 +96,12 @@ button {
     font-size: 1rem;
     transition: background-color 0.3s ease;
 }
-
+p {
+    color: #FFFFFF;/* Change text color */
+    margin-top: 20px; /* Adds space above */
+    font-size: 16px; /* Adjust font size if needed */
+    text-align: center; /* Center align the text */
+}
 button:hover {
     background-color: #2f241b;
 }
