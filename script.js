@@ -23,5 +23,5 @@ function calculateAge(){
         months+=12
 
     }
-    document.getElementById("result").innerText=`Year :${years} Month :${months},Days:${days}`
+    document.getElementById("result").innerText=`Year :${years}, Month :${months},Days:${days}`
 }
